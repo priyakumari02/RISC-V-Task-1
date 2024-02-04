@@ -1,0 +1,5 @@
+# C:\OCaml64\home\PRIYA\.opam\4.14.0+mingw64c\bin\dune.exe init proj helloworld
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: "C:\\OCaml64\\home\\PRIYA\\RISC-V"
+# Auto-detected concurrency: 8
